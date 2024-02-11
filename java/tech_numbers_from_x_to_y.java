@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tech_number_checker {
+public class tech_numbers_from_x_to_y {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner scan = new Scanner(System.in);
